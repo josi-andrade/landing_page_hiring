@@ -221,3 +221,8 @@ body {
   padding: 8px 10px;
   border: 2px solid greenyellow;
 }
+
+.btn-submit:hover {
+  cursor: pointer;
+  background-color: seagreen;
+}
